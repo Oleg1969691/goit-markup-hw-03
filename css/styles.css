@@ -281,12 +281,11 @@ body {
   letter-spacing: 0.02em;
   width: 264px;
   height: 72px;
-  padding-top: 16px;
 }
 .footer {
   background: var(--navyblue, #2e2f42);
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .logo-footer {
   font-family: "Raleway", sans-serif;
@@ -297,6 +296,7 @@ body {
   text-transform: uppercase;
   color: var(--cloud, #f4f4fd);
 }
-.logo {
-  display: inline;
+.link-footer {
+  display: inline-block;
+  margin-bottom: 16px;
 }
