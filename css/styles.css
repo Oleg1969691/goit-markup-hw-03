@@ -50,10 +50,11 @@ img {
   font-style: normal;
   color: #434455;
   gap: 40px;
+}
+.address-item {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -76,6 +77,8 @@ body {
 .menu {
   display: flex;
   gap: 40px;
+}
+.menu-item {
   padding-top: 24px;
   padding-bottom: 24px;
 }
