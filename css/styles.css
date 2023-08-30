@@ -89,7 +89,6 @@ body {
   justify-content: space-between;
   width: 100%;
   max-width: 452px;
-  gap: 40px;
 }
 .logo-word {
   color: var(--navyblue, #2e2f42);
